@@ -25,7 +25,7 @@
 <br />
 
 Hi! I am Kumar Ankit, a **Computer Science and Engineering** sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
-I am a Competitive Programmer 🚀 from **India**. I love to learn new things and beleive in Code till AC.
+I am a Competitive Programmer 🚀 from **India**. I love to learn new things and believe in Code till AC.
 
 ![Akt's Github stats](https://github-readme-stats.vercel.app/api?username=Masters-Akt&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
