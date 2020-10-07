@@ -10,6 +10,8 @@
 <br />
 
 Hi! I am Kumar Ankit, a CSE sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
+
+![Akt's stats](https://github-readme-stats.vercel.app/api?username=Masters-Akt&show_icons=true&hide_border=true)
 <!--
 **Masters-Akt/Masters-Akt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
