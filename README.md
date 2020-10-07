@@ -29,7 +29,7 @@ I am a Competitive Programmer 🚀 from **India**. I love to learn new things an
 
 ![Akt's Github stats](https://github-readme-stats.vercel.app/api?username=Masters-Akt&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masters-Akt&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masters-Akt&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Masters-Akt.Masters-Akt)
 <!--
