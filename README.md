@@ -25,6 +25,8 @@ Hi! I am Kumar Ankit, a **Computer Science and Engineering** sophomore at <a hre
 I am a Competitive Programmer 🚀 from **India**. I love to learn new things and beleive in Code till AC.
 
 ![Akt's Github stats](https://github-readme-stats.vercel.app/api?username=Masters-Akt&show_icons=true&hide_border=true)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Masters-Akt.Masters-Akt)
 <!--
 **Masters-Akt/Masters-Akt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
