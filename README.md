@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm <a href="https://github.com/Masters-Akt">Kumar Ankit </a>
 
+<a href="https://www.linkedin.com/in/kumar-ankit-830512195/">
+  <img align="left" alt="Akt's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/masters_akt/?hl=en">
+  <img align="left" alt="Akt's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+<br />
+
+Hi! I am Kumar Ankit, a CSE sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
 <!--
 **Masters-Akt/Masters-Akt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
