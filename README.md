@@ -31,6 +31,12 @@ I am a Competitive Programmer 🚀 from **India**. I love to learn new things an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masters-Akt&theme=tokyonight)](https://github.com/Masters-Akt/github-readme-stats)
 
+![Github Metrics](https://metrics.lecoq.io/Masters-Akt)
+
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Masters-Akt)
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Masters-Akt)
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Masters-Akt.Masters-Akt)
 <!--
 **Masters-Akt/Masters-Akt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
