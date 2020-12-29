@@ -35,7 +35,7 @@ I am a Competitive Programmer 🚀 from **India**. I love to learn new things an
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Masters-Akt&theme=tokyonight)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=Masters-Akt&theme=tokyonight)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Masters-Akt)
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Masters-Akt.Masters-Akt)
 <!--
