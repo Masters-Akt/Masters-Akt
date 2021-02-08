@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kumar-ankit-830512195/">
   <img align="left" alt="Akt's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/masters_akt/?hl=en">
+<a href="https://www.instagram.com/kumarankit_28/?hl=en">
   <img align="left" alt="Akt's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/Masters-Akt">
