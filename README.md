@@ -24,8 +24,8 @@
 <br />
 <br />
 
-Hi! I am Kumar Ankit, a **Computer Science and Engineering** sophomore at <a href ="http://kiit.ac.in/">KIIT University</a>
-I am a Competitive Programmer 🚀 from **India**. I love to learn new things and believe in Code till AC.
+Hi! I am Kumar Ankit😄, a **Computer Science and Engineering** pre-final year student at <a href ="http://kiit.ac.in/">KIIT University</a>
+I am a Competitive Programmer 🚀 from **India**. I love to learn new things and I believe in Code till AC.⚡
 
 ![Akt's Github stats](https://github-readme-stats.vercel.app/api?username=Masters-Akt&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
@@ -39,7 +39,7 @@ I am a Competitive Programmer 🚀 from **India**. I love to learn new things an
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Masters-Akt.Masters-Akt)
 
-Star some repositories if you find them useful...
+✨Star some repositories if you find them useful!✨
 <!--
 **Masters-Akt/Masters-Akt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
